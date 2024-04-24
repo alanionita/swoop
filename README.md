@@ -20,11 +20,15 @@ The projects involves ordering parts, designing, and manufacturing an open-sourc
   - [ ] Set up RP2040 to full operation
 - [x] Develop a laser cutter process
   - [x] Get started with operating a laser cutter
-  - [ ] Learn to use Kicad for adjusting the plates designs
-  - [ ] Prototyping plates in cardboard with the laser cutter
-  - [ ] Adjusting the designs with prototypes
-  - [ ] Learn about laser cutting acrylic 
-  - [ ] Cut the final plates from acrylic
+  - [x] Learn to use Kicad for adjusting the plates designs
+  - [x] Prototyping plates in cardboard with the laser cutter
+  - [x] Adjusting the designs with prototypes
+  - [x] Learn about laser cutting acrylic 
+  - [x] Cut the final plates from acrylic
 - [ ] Assembly and training
   - [ ] Assemble the final product
+    - [ ] Source correct screws
+      - M2 screw requirement was wrong
+      - Have to upgrade to M3 screws
+      - Find supplier
   - [ ] Train to use the new keyboard efficiently
