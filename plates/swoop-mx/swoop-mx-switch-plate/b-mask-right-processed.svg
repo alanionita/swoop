@@ -22,8 +22,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.2493012"
-     inkscape:cx="219.40148"
-     inkscape:cy="204.95254"
+     inkscape:cx="287.4226"
+     inkscape:cy="179.61134"
      inkscape:window-width="2560"
      inkscape:window-height="1376"
      inkscape:window-x="0"
@@ -59,9 +59,9 @@
       <circle
          cx="32.030201"
          cy="26.575399"
-         r="1.75"
          id="circle4"
-         style="fill:none;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.0694445;stroke-dasharray:none;stroke-opacity:1"
+         r="1.2152778" />
     </g>
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0212;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -79,9 +79,9 @@
       <circle
          cx="89.180199"
          cy="26.075899"
-         r="1.75"
          id="circle9"
-         style="fill:none;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.0694445;stroke-dasharray:none;stroke-opacity:1"
+         r="1.2152778" />
     </g>
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0212;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -123,9 +123,9 @@
       <circle
          cx="89.180199"
          cy="64.175903"
-         r="1.75"
          id="circle26"
-         style="fill:none;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.0694445;stroke-dasharray:none;stroke-opacity:1"
+         r="1.2152778" />
     </g>
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0212;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -145,9 +145,9 @@
       <circle
          cx="51.0807"
          cy="60.950401"
-         r="1.75"
          id="circle32"
-         style="fill:none;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.0694445;stroke-dasharray:none;stroke-opacity:1"
+         r="1.2152778" />
     </g>
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0212;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -163,9 +163,9 @@
       <circle
          cx="21.7635"
          cy="79.2332"
-         r="1.75"
          id="circle36"
-         style="fill:none;stroke:#ff0000;stroke-width:0.01;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.0694445;stroke-dasharray:none;stroke-opacity:1"
+         r="1.2152778" />
     </g>
     <g
        style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.0212;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -379,7 +379,7 @@
     <path
        d="m 53.6052,17.5504 v -14"
        id="path93"
-       style="stroke:#ff0000;stroke-opacity:1" />
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.15;stroke-dasharray:none" />
     <path
        d="m 15.5052,26.5504 v -14"
        id="path94"
